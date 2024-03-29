@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bmajkut9
+- 👋 Welcome! I’m @bmajkut9
 - 👀 I’m interested in mobile development and script automation
 - 🌱 I’m currently learning flutter and python
 - 📫 How to reach me: bmajkut9@gmail.com
