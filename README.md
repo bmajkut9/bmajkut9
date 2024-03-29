@@ -1,6 +1,6 @@
 - 👋 Welcome! I’m @bmajkut9
 - 👀 I’m interested in mobile development and script automation
-- 🌱 I’m currently learning flutter and python
+- 🌱 I’m currently learning Flutter and Python
 - 📫 How to reach me: bmajkut9@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a Lamborgini Adventador (the hot wheels kind)
