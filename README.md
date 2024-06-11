@@ -1,9 +1,8 @@
 - 👋 Welcome! I’m @bmajkut9
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Flutter and Python
+- 🌱 I’m currently learning React and SQL
 - 📫 How to reach me: bmajkut9@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have a Lamborgini Adventador (the hot wheels kind)
 
 <!---
 bmajkut9/bmajkut9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
