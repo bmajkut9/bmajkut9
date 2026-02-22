@@ -1,6 +1,6 @@
 - 👋 Welcome! I’m @bmajkut9
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning React Native and SQL
+- 👀 I’m interested in nvim and passing my classes
+- 🌱 I’m currently learning C and C++
 - 📫 How to reach me: bmajkut9@gmail.com
 - 😄 Pronouns: He/him
 
